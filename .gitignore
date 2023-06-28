@@ -3,7 +3,6 @@ Thumbs.db*
 HELP.md
 .gradle
 build/
-gradle/
 
 ### STS ###
 .apt_generated
@@ -20,7 +19,6 @@ gradle/
 *.iml
 *.ipr
 out/
-
 
 ### NetBeans ###
 /nbproject/private/
